@@ -7,4 +7,3 @@ learning:
 - python
 - javascript/html/css
 - swift
-- MatLab
